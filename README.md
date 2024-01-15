@@ -1,9 +1,10 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+- To analyze the NYC Airbnb market, understanding pricing, popularity, and availability trends.
+To identify which neighborhoods and room types offer the best value for guests.
+To explore the impact of host activity on listing prices and guest reviews.
 
-## Process
 ### (your step 1)
 ### (your step 2)
 
