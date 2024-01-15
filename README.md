@@ -23,7 +23,7 @@ The project's outcomes included a comprehensive suite of Tableau dashboards and 
 The findings underscore the variation in rental prices across neighborhoods, with Manhattan emerging as the most expensive, and the outer boroughs offering more affordable options. Room types showed a distinct preference, with entire homes/apartments being the most available yet private rooms having a higher relative availability.
 
 ## Challenges 
-The project entailed navigating through a vast dataset with numerous variables. Isolating the most relevant factors for analysis required meticulous data exploration and feature selection. Crafting a compelling story from complex data presented a notable challenge, necessitating a balance between detail and digestibility.
+The project entailed navigating through a vast dataset with numerous variables. Isolating the most relevant factors for analysis required meticulous data exploration and feature selection. Crafting a compelling story from complex data presented a notable challenge, necessitating a balance between detail and digestibility. Another challenge I faced was when Tableau didn't know New York City's neighborhoods by name, which was key for my map. So, I used Python to match those neighborhoods with their zip codes. This let me map everything out clearly in Tableau.
 
 ## Future Goals
 Looking ahead, the project could benefit from a impure analysis of sub-neighborhood trends and the impact of specific amenities on rental pricing and popularity. Incorporating external datasets, such as tourist footfall and event calendars, could further enrich the analysis. Additionally, predictive modeling to forecast market dynamics could provide a forward-looking angle to the study.
