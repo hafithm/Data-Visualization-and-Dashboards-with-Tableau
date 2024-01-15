@@ -3,7 +3,7 @@
 ## Project/Goals
 - The primary objective of this project is to decode the intricacies of the New York City Airbnb market. The focus lies on understanding how rental prices, room types, and host activities influence guest reviews and accommodation popularity. This analysis is significant not only for Airbnb users but also for prospective hosts and policymakers. By scrutinizing various facets such as neighborhood trends, seasonal patterns, and pricing strategies, this project aims to unearth actionable insights that could enhance the Airbnb experience in NYC.
 
-### 
+### Process
 - Step 1: Conducted an initial Exploratory Data Analysis (EDA) using Python to comprehend the data structure and main variables.
 - Step 2. Cleaned the data by filtering irrelevant columns and normalizing text fields for consistency. Ensured data integrity by handling missing values and outliers.
 - Step 3. Created a series of visualizations in Tableau to represent different data dimensions, including geographical distribution, pricing, and host-related metrics.
@@ -14,10 +14,16 @@
 
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+The project's outcomes included a comprehensive suite of Tableau dashboards and stories, providing a multi-dimensional view of the NYC Airbnb market. Key visualizations included:
+- Geospatial analysis highlighting hotspots for Airbnb listings and how they correlate with pricing.
+- Comparative charts showcasing room type availability and their respective pricing across neighborhoods.
+- Temporal trend graphs illustrating seasonal variations in pricing and review frequency.
+- Analysis of host activity patterns, revealing insights on how the 'Host Since' date influences listing prices and guest reviews.
+
+The findings underscore the variation in rental prices across neighborhoods, with Manhattan emerging as the most expensive, and the outer boroughs offering more affordable options. Room types showed a distinct preference, with entire homes/apartments being the most available yet private rooms having a higher relative availability.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+The project entailed navigating through a vast dataset with numerous variables. Isolating the most relevant factors for analysis required meticulous data exploration and feature selection. Crafting a compelling story from complex, multi-layered data presented a notable challenge, necessitating a fine balance between detail and digestibility.
 
 ## Future Goals
-(what would you do if you had more time?)
+Looking ahead, the project could benefit from a granular analysis of sub-neighborhood trends and the impact of specific amenities on rental pricing and popularity. Incorporating external datasets, such as tourist footfall and event calendars, could further enrich the analysis. Additionally, predictive modeling to forecast market dynamics could provide a forward-looking angle to the study.
