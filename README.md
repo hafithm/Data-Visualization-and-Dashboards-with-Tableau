@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Tableau-Project
 
 ## Project/Goals
 - The primary objective of this project is to decode the intricacies of the New York City Airbnb market. The focus lies on understanding how rental prices, room types, and host activities influence guest reviews and accommodation popularity. This analysis is significant not only for Airbnb users but also for prospective hosts. By looking over various topics such as neighborhood trends, seasonal patterns, and pricing strategies, this project aims to dig up actionable insights that could enhance the Airbnb experience in NYC.
